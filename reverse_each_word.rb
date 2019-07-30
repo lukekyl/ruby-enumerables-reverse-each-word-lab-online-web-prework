@@ -6,7 +6,7 @@ def reverse_each_word(string)
   n.split("")
   n.reverse
   n.join("")
-  n
+  
   }
   reversed.join(' ')
   
